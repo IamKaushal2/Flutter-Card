@@ -80,7 +80,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.teal,
                       ),
                       title: Text(
-                        '+91 8758447471',
+                        '+91 1234567890',
                         style: TextStyle(
                           color: Colors.teal.shade900,
                           fontFamily: 'ABeeZee',
@@ -101,7 +101,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.teal,
                         ),
                         title: Text(
-                          'kaushalmakadia123@gmail.com',
+                          'kaushal@gmail.com',
                           style: TextStyle(
                             color: Colors.teal.shade900,
                             fontFamily: 'ABeeZee',
@@ -121,7 +121,7 @@ class MyApp extends StatelessWidget {
                           color: Colors.teal,
                         ),
                         title: Text(
-                          'https://linktr.ee/Kaushal_Makadia',
+                          'https://linktr.ee',
                           style: TextStyle(
                             color: Colors.teal.shade900,
                             fontFamily: 'ABeeZee',
