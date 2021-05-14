@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                 height: 5.0,
               ),
               Text(
-                'Kaushal Makadia',
+                'Kaushal',
                 style: TextStyle(
                   fontFamily: 'AkayaTelivigala',
                   fontSize: 40.0,
